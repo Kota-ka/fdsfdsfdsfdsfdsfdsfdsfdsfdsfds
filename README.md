@@ -27,15 +27,7 @@
 4. Waits for you to press Z or X (your first tap in-game)
 5. Anchors the wall clock to the beatmap timeline and auto-clicks every note
 6. Monitors for Escape (pause), map completion, fail, retry, and beatmap changes
-
-## Installation
-
-```bash
-git clone https://github.com/superangelguy/osu-relax.git
-cd osu-relax
-pip install -r requirements.txt
-```
-
+7. 
 ## Usage
 
 ### Optional tosu mode
