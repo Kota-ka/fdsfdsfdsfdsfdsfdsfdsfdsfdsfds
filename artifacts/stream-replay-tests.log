@@ -1,0 +1,18 @@
+test_streams_with_nc_hr_and_five_ms_cursor_sampling_lag (test_stream_replay.StreamReplayTests.test_streams_with_nc_hr_and_five_ms_cursor_sampling_lag) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 2.267s
+
+OK
+[*] Aim: automatic Stable playfield. F6/F7 override in GAMEPLAY, not the editor.
+[*] Aim activation: enabled during play.
+[+] tosu: test.osu
+[*] Aim: automatic Stable playfield. F6/F7 override in GAMEPLAY, not the editor.
+[*] Aim activation: enabled during play.
+[+] tosu: test.osu
+[*] Aim: automatic Stable playfield. F6/F7 override in GAMEPLAY, not the editor.
+[*] Aim activation: enabled during play.
+[+] tosu: test.osu
+[*] Aim: automatic Stable playfield. F6/F7 override in GAMEPLAY, not the editor.
+[*] Aim activation: enabled during play.
+[+] tosu: test.osu

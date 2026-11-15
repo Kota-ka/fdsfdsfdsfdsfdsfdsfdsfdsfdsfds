@@ -1,0 +1,65 @@
+634 INFO: PyInstaller: 6.22.3, contrib hooks: 2026.10
+635 INFO: Python: 3.15.2
+701 INFO: Platform: Windows-11-10.0.26300-SP0
+701 INFO: Python environment: C:\Users\acnoz\Desktop\tooosu\.venv
+713 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\acnoz\\Desktop\\tooosu',
+ 'C:\\Users\\acnoz\\AppData\\Local\\Python\\pythoncore-3.15-64\\python315.zip',
+ 'C:\\Users\\acnoz\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs',
+ 'C:\\Users\\acnoz\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib',
+ 'C:\\Users\\acnoz\\AppData\\Local\\Python\\pythoncore-3.15-64',
+ 'C:\\Users\\acnoz\\Desktop\\tooosu\\.venv',
+ 'C:\\Users\\acnoz\\Desktop\\tooosu\\.venv\\Lib\\site-packages',
+ 'C:\\Users\\acnoz\\Desktop\\tooosu']
+1798 INFO: Appending 'datas' from .spec
+1799 INFO: checking Analysis
+1828 INFO: Building because C:\Users\acnoz\Desktop\tooosu\aim_path.py changed
+1829 INFO: Looking for Python shared library...
+1829 INFO: Using Python shared library: C:\Users\acnoz\AppData\Local\Python\pythoncore-3.15-64\python315.dll
+1829 INFO: Running Analysis Analysis-00.toc
+1829 INFO: Target bytecode optimization level: 0
+1829 INFO: Initializing module dependency graph...
+1833 INFO: Initializing module graph hook caches...
+1912 INFO: Analyzing modules for base_library.zip ...
+7769 INFO: Processing standard module hook 'hook-encodings.py' from 'C:\\Users\\acnoz\\Desktop\\tooosu\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+9570 INFO: Processing standard module hook 'hook-math.py' from 'C:\\Users\\acnoz\\Desktop\\tooosu\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+11258 INFO: Processing standard module hook 'hook-difflib.py' from 'C:\\Users\\acnoz\\Desktop\\tooosu\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+11294 INFO: Processing standard module hook 'hook-heapq.py' from 'C:\\Users\\acnoz\\Desktop\\tooosu\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+13440 INFO: Processing standard module hook 'hook-pickle.py' from 'C:\\Users\\acnoz\\Desktop\\tooosu\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+15121 INFO: Caching module dependency graph...
+15175 INFO: Analyzing C:\Users\acnoz\Desktop\tooosu\osu.py
+15349 INFO: Processing standard module hook 'hook-platform.py' from 'C:\\Users\\acnoz\\Desktop\\tooosu\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+15414 INFO: Processing standard module hook 'hook-sysconfig.py' from 'C:\\Users\\acnoz\\Desktop\\tooosu\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+15428 INFO: Processing standard module hook 'hook-_ctypes.py' from 'C:\\Users\\acnoz\\Desktop\\tooosu\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+15871 INFO: Processing standard module hook 'hook-psutil.py' from 'C:\\Users\\acnoz\\Desktop\\tooosu\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+16467 INFO: Processing module hooks (post-graph stage)...
+16487 INFO: Performing binary vs. data reclassification (6 entries)
+16491 INFO: Looking for ctypes DLLs
+16561 INFO: Analyzing run-time hooks ...
+16564 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'C:\\Users\\acnoz\\Desktop\\tooosu\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+16579 INFO: Creating base_library.zip...
+16614 INFO: Looking for dynamic libraries
+17271 INFO: Extra DLL search directories (AddDllDirectory): []
+17271 INFO: Extra DLL search directories (PATH): []
+17951 INFO: Warnings written to C:\Users\acnoz\Desktop\tooosu\build\osu-relax\warn-osu-relax.txt
+17975 INFO: Graph cross-reference written to C:\Users\acnoz\Desktop\tooosu\build\osu-relax\xref-osu-relax.html
+18063 INFO: checking PYZ
+18082 INFO: Building because C:\Users\acnoz\Desktop\tooosu\aim_path.py changed
+18082 INFO: Building PYZ (ZlibArchive) C:\Users\acnoz\Desktop\tooosu\build\osu-relax\PYZ-00.pyz
+18298 INFO: Building PYZ (ZlibArchive) C:\Users\acnoz\Desktop\tooosu\build\osu-relax\PYZ-00.pyz completed successfully.
+18311 INFO: checking PKG
+18328 INFO: Building because toc changed
+18328 INFO: Building PKG (CArchive) osu-relax.pkg
+19451 INFO: Building PKG (CArchive) osu-relax.pkg completed successfully.
+19455 INFO: Bootloader C:\Users\acnoz\Desktop\tooosu\.venv\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\run.exe
+19456 INFO: checking EXE
+19480 INFO: Rebuilding EXE-00.toc because osu-relax.exe missing
+19480 INFO: Building EXE from EXE-00.toc
+19480 INFO: Copying bootloader EXE to C:\Users\acnoz\Desktop\tooosu\dist\context-flow\osu-relax.exe
+19585 INFO: Copying icon to EXE
+19664 INFO: Copying 0 resources to EXE
+19664 INFO: Embedding manifest in EXE
+19732 INFO: Appending PKG archive to EXE
+19895 INFO: Fixing EXE headers
+20277 INFO: Building EXE from EXE-00.toc completed successfully.
+20281 INFO: Build complete! The results are available in: C:\Users\acnoz\Desktop\tooosu\dist\context-flow

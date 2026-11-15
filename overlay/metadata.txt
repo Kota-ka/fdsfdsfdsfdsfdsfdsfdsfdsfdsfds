@@ -1,0 +1,6 @@
+Usecase: ingame, obs-overlay
+Name: Aim Assist
+Version: 1.0.3
+Author: Local
+CompatibleWith: tosu
+Resolution: 1920x1080

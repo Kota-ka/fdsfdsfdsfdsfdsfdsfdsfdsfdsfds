@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Aim Assist · tosu</title><link rel="stylesheet" href="app.css?v=3">
+</head>
+<body>
+  <div id="hud" aria-live="off"></div>
+  <main id="dashboard" hidden>
+    <header><div class="brand"><span class="mark">◎</span><div><h1>Aim Assist <small>/ tosu</small></h1><p>Ajuste a correção. Mantenha o controle.</p></div></div><span id="connection" class="badge">Conectando…</span></header>
+    <div class="workspace">
+      <section class="settings-pane" aria-label="Configurações">
+        <div class="presets"><span>PERFIL INICIAL</span><button type="button" data-preset="assist">Assist</button><button type="button" data-preset="strong">Strong</button></div>
+        <p class="hint">Alterações são salvas no tosu e aplicadas durante a execução. Ao abrir este painel, o jogo perde foco e a assistência pausa.</p>
+        <form id="settings"></form>
+        <footer><button id="save" type="button">Aplicar agora</button><button id="reset-defaults" type="button" disabled>Restaurar padrões</button><span id="saved" role="status">Carregando configurações…</span></footer>
+      </section>
+      <section class="visual-pane" aria-label="Visualização do assist">
+        <div class="preview-heading"><div><span class="eyebrow">VISUALIZAÇÃO DO RAIO</span><h2 id="view-title">Prévia do FOV</h2></div><span class="badge muted" id="view-mode">Sem partida ativa</span></div>
+        <div id="stage"><canvas id="view" aria-label="FOV, limite da correção e alvo atual"></canvas><div class="stage-grid"></div><span id="preview-note">Prévia ilustrativa · o raio usa unidades do mapa</span></div>
+        <div class="legend"><span><i class="cyan"></i>FOV de captura</span><span><i class="dashed"></i>Referência da correção</span><span><i class="orange"></i>Alvo / slider</span></div>
+        <div class="metrics"><article><span>ESTADO DO ASSIST</span><strong id="reason">Aguardando programa</strong></article><article><span>CORREÇÃO ATUAL</span><strong id="offset">—</strong><span id="timing-calibration">—</span></article><article><span>ALVO / IDADE DO CURSOR</span><strong id="target-kind">—</strong><span id="latency">—</span></article></div>
+        <aside><strong>FOV não é força.</strong> O círculo maior mostra onde o alvo pode ser capturado. A referência tracejada acompanha as correções já feitas, sem retorno à posição antiga. A janela da nota, o movimento e o ângulo ainda podem bloquear a correção.</aside>
+        <a id="native-settings" href="/" target="_blank" rel="noreferrer">Abrir dashboard do tosu ↗</a>
+      </section>
+    </div>
+  </main>
+  <canvas id="overlay-view" aria-hidden="true"></canvas>
+  <script src="app.js?v=10"></script>
+</body>
+</html>

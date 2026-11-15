@@ -1,0 +1,7 @@
+{
+  "notes": 9,
+  "http_samples": 1,
+  "median_scheduling_delay_ms": 0.9667999972589314,
+  "max_scheduling_delay_ms": 2.8336999902967364,
+  "os_input_mocked": true
+}

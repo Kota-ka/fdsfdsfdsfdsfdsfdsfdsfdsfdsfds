@@ -1,0 +1,62 @@
+usage: osu-relax.exe [-h] [--tosu] [--aim] [--overlay] [--tosu-dir TOSU_DIR]
+                     [--aim-profile {assist,strong,aimbot}]
+                     [--aim-hold-key AIM_HOLD_KEY] [--aim-debug]
+                     [--aim-tablet] [--aim-no-require-motion]
+                     [--aim-require-motion] [--aim-no-note-hold]
+                     [--aim-note-hold] [--aim-strength AIM_STRENGTH]
+                     [--aim-smooth-ms AIM_SMOOTH_MS] [--aim-radius AIM_RADIUS]
+                     [--aim-timing-ms AIM_TIMING_MS]
+                     [--aim-cone-deg AIM_CONE_DEG]
+                     [--aim-return-close-ms AIM_RETURN_CLOSE_MS]
+                     [--aim-return-far-ms AIM_RETURN_FAR_MS]
+                     [--aim-motion-curve AIM_MOTION_CURVE]
+                     [--aim-max-speed AIM_MAX_SPEED]
+                     [--aim-max-offset AIM_MAX_OFFSET]
+                     [--aim-max-accel AIM_MAX_ACCEL]
+
+osu! Relax via local tosu API
+
+options:
+  -h, --help            show this help message and exit
+  --tosu                Use the local tosu v2 API
+  --aim                 Enable motion-driven aim with automatic gameplay
+                        projection
+  --overlay             Install/connect the native tosu configuration and FOV
+                        overlay
+  --tosu-dir TOSU_DIR   tosu folder, if automatic detection is unavailable
+  --aim-profile {assist,strong,aimbot}
+                        Assist preset (default: assist); aimbot is a legacy
+                        alias for strong assistance
+  --aim-hold-key AIM_HOLD_KEY
+                        Optional activation key, e.g. "right ctrl"
+  --aim-debug           Print aim blocking reasons at most once per second
+  --aim-tablet          Treat observed physical cursor changes as absolute
+                        tablet positions
+  --aim-no-require-motion
+                        Allow correction without hand movement
+  --aim-require-motion  Require hand movement
+  --aim-no-note-hold    Allow pull toward the centre even inside the hit
+                        circle
+  --aim-note-hold       Preserve offset inside the hit circle
+  --aim-strength AIM_STRENGTH
+                        Override profile strength
+  --aim-smooth-ms AIM_SMOOTH_MS
+                        Override profile smooth ms
+  --aim-radius AIM_RADIUS
+                        Override profile radius
+  --aim-timing-ms AIM_TIMING_MS
+                        Override profile timing ms
+  --aim-cone-deg AIM_CONE_DEG
+                        Override profile cone deg
+  --aim-return-close-ms AIM_RETURN_CLOSE_MS
+                        Override profile return close ms
+  --aim-return-far-ms AIM_RETURN_FAR_MS
+                        Override profile return far ms
+  --aim-motion-curve AIM_MOTION_CURVE
+                        Override profile motion curve
+  --aim-max-speed AIM_MAX_SPEED
+                        Override profile max speed
+  --aim-max-offset AIM_MAX_OFFSET
+                        Override profile max offset
+  --aim-max-accel AIM_MAX_ACCEL
+                        Override profile max accel

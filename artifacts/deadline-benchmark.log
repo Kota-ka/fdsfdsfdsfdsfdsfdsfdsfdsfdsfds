@@ -1,0 +1,2 @@
+{"mode": "relative", "mean_ms": 1.517, "median_ms": 1.51, "p95_ms": 1.837, "max_ms": 2.133}
+{"mode": "deadline", "mean_ms": 1.001, "median_ms": 1.005, "p95_ms": 1.29, "max_ms": 1.633}

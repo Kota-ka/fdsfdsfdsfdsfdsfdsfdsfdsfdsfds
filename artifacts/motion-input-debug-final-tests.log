@@ -1,0 +1,199 @@
+[+] tosu: test.osu
+----------------------------------------------------------------------
+[*] Relax cadence: presses=1; max_late=50.00ms; max_release_late=0.00ms; rate=1x
+[+] tosu: test.osu
+[*] Aim settings source: assist; effective config: <MagicMock name='AimAssist().physics.config' id='2359292277632'>
+[*] tosu mode: http://127.0.0.1:24050/json/v2; Ctrl+C to exit
+[+] tosu: test.osu
+[+] tosu: test.osu
+[+] tosu: test.osu
+[*] Relax cadence: presses=1; max_late=0.00ms; max_release_late=0.00ms; rate=1x
+[+] tosu: test.osu
+[*] Relax cadence: presses=1; max_late=10.00ms; max_release_late=0.00ms; rate=1x
+[*] tosu mode: http://127.0.0.1:24050/json/v2; Ctrl+C to exit
+[!] Telemetry or input unavailable: connection refused
+[+] tosu: test.osu
+[+] tosu: test.osu
+[+] tosu: test.osu
+[+] tosu: test.osu
+[+] tosu: test.osu
+[+] tosu: map.osu
+[+] tosu: test.osu
+[*] Aim settings source: aimbot; effective config: <MagicMock name='AimAssist().physics.config' id='2359292517680'>
+[*] tosu mode: http://127.0.0.1:24050/json/v2; Ctrl+C to exit
+[+] tosu: test.osu
+Ran 189 tests in 8.040s
+
+OK
+[*] Relax cadence: presses=1; max_late=0.00ms; max_release_late=0.00ms; rate=1x
+[+] tosu: test.osu
+[*] Relax cadence: presses=1; max_late=0.00ms; max_release_late=0.00ms; rate=1x
+[+] tosu: test.osu
+[+] tosu: test.osu
+[+] tosu: test.osu
+[+] tosu: test.osu
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[+] tosu: test.osu
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[+] tosu: test.osu
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[+] tosu: test.osu
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[+] tosu: test.osu
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: waiting for lazer gameplay clock
+[+] tosu: test.osu
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[+] tosu: test.osu
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[+] tosu: test.osu
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[+] tosu: test.osu
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[+] tosu: test.osu
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[+] tosu: test.osu
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[+] tosu: test.osu
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[+] tosu: test.osu
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic gameplay area (100, 112, 800, 600)
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: manual top-left recorded; F7 at bottom-right in gameplay
+[+] Aim calibrated: (100, 100, 512, 384)
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: manual calibration is only available in gameplay, including pause
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: waiting for osu! focus
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: invalid manual rectangle; restored automatic gameplay projection
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: waiting for hand movement; cursor=(300, 200); target=(356.0, 200.0); offset=(0.0, 0.0)
+[*] Aim interval: moves=1; states={'waiting for hand movement': 1}
+[*] Aim cadence: max_tick=10.00ms; max_correction=2.00px; rate=1x
+[*] Aim Windows output: requested=(302, 200); observed=(305, 200)
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: hold right ctrl to activate
+[*] Aim: finish manual calibration with F7
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: raw input is enabled; disable it to use Windows cursor correction
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: waiting for hand movement; cursor=(300, 200); target=(356.0, 200.0); offset=(0.0, 0.0)
+[*] Aim interval: moves=1; states={'waiting for hand movement': 1}
+[*] Aim cadence: max_tick=10.00ms; max_correction=2.00px; rate=1x
+[*] Aim Windows output: requested=(302, 200); observed=(305, 200)
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: spinner active
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: spinner active
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: unsupported client
+[*] Aim: unsupported coordinate-transform mod
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: window changed; redo manual calibration with F6/F7
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: game telemetry stale
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
+[*] Aim: game telemetry stale
+[*] Aim: automatic Stable/lazer playfield. F6/F7 optionally override in GAMEPLAY.
+[*] Aim activation: enabled during play.
